@@ -1,2 +1,4 @@
-# Cryptology_SM4_C
+Cryptology_SM4
+=========
+
 This is a program to achieve SM4 algorithmn
